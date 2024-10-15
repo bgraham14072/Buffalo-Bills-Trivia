@@ -1,70 +1,47 @@
-import json
-import random
-import time
-from collections import defaultdict
-
-class BillsTrivia:
-    def __init__(self):
-        with open('bills_trivia_questions.json', 'r') as f:
-            self.questions = json.load(f)
-        self.leaderboard = defaultdict(int)
-        self.current_player = None
-
-    def start_game(self):
-        print("Welcome to Buffalo Bills Trivia!")
-        self.current_player = input("Enter your username: ")
-        
-        difficulties = ['easy', 'medium', 'hard']
-        for difficulty in difficulties:
-            print(f"\nStarting {difficulty.capitalize()} Round!")
-            self.play_round(difficulty)
-
-        print("\nGame Over!")
-        self.display_score()
-        self.update_leaderboard()
-
-    def play_round(self, difficulty):
-        questions = random.sample(self.questions[difficulty], 5)  # Play 5 questions per round
-        for q in questions:
-            print(f"\n{q['question']}")
-            for i, option in enumerate(q['options'], 1):
-                print(f"{i}. {option}")
-
-            start_time = time.time()
-            answer = input("Your answer (1-4): ")
-            end_time = time.time()
-
-            if answer.isdigit() and 1 <= int(answer) <= 4:
-                if q['options'][int(answer)-1] == q['correct_answer']:
-                    points = self.calculate_points(difficulty, end_time - start_time)
-                    print(f"Correct! You earned {points} points.")
-                    self.leaderboard[self.current_player] += points
-                else:
-                    points = self.calculate_negative_points(difficulty)
-                    print(f"Incorrect. You lost {abs(points)} points.")
-                    self.leaderboard[self.current_player] += points
-            else:
-                print("Invalid input. No points awarded.")
-
-    def calculate_points(self, difficulty, time_taken):
-        base_points = {'easy': 100, 'medium': 200, 'hard': 500}
-        points = base_points[difficulty]
-        if time_taken <= 10:
-            points += 50  # Bonus for answering within 10 seconds
-        return points
-
-    def calculate_negative_points(self, difficulty):
-        return {'easy': -50, 'medium': -100, 'hard': -250}[difficulty]
-
-    def display_score(self):
-        print(f"\n{self.current_player}'s Final Score: {self.leaderboard[self.current_player]}")
-
-    def update_leaderboard(self):
-        print("\nLeaderboard:")
-        sorted_leaderboard = sorted(self.leaderboard.items(), key=lambda x: x[1], reverse=True)
-        for i, (player, score) in enumerate(sorted_leaderboard[:5], 1):
-            print(f"{i}. {player}: {score}")
-
-if __name__ == "__main__":
-    game = BillsTrivia()
-    game.start_game()
+{
+  "easy": [
+    {
+      "question": "Who was the Bills' starting quarterback in the 2022 NFL season?",
+      "options": ["Josh Allen", "Tyrod Taylor", "EJ Manuel", "Ryan Fitzpatrick"],
+      "correct_answer": "Josh Allen",
+      "year": 2022
+    },
+    {
+      "question": "Which Bills player led the team in rushing yards in the 2021 season?",
+      "options": ["Josh Allen", "Devin Singletary", "Zack Moss", "Matt Breida"],
+      "correct_answer": "Devin Singletary",
+      "year": 2021
+    }
+    // ... 48 more easy questions ...
+  ],
+  "medium": [
+    {
+      "question": "Who was the Bills' head coach during their four consecutive Super Bowl appearances?",
+      "options": ["Marv Levy", "Chuck Knox", "Wade Phillips", "Dick Jauron"],
+      "correct_answer": "Marv Levy",
+      "year": 1990
+    },
+    {
+      "question": "Which Bills player was known as 'The Biscuit' and played offensive line from 1973 to 1984?",
+      "options": ["Joe DeLamielleure", "Kent Hull", "Jim Ritcher", "Will Wolford"],
+      "correct_answer": "Joe DeLamielleure",
+      "year": 1973
+    }
+    // ... 48 more medium questions ...
+  ],
+  "hard": [
+    {
+      "question": "Who was the first head coach of the Buffalo Bills in their inaugural 1960 AFL season?",
+      "options": ["Buster Ramsey", "Lou Saban", "Joel Collier", "John Rauch"],
+      "correct_answer": "Buster Ramsey",
+      "year": 1960
+    },
+    {
+      "question": "Which Bills player was the AFL MVP in 1965?",
+      "options": ["Jack Kemp", "Cookie Gilchrist", "Elbert Dubenion", "Ernie Warlick"],
+      "correct_answer": "Jack Kemp",
+      "year": 1965
+    }
+    // ... 48 more hard questions ...
+  ]
+}
