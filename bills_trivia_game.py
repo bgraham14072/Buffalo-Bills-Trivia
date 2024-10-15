@@ -52,7 +52,6 @@ class BillsTrivia:
             print("Username not found. Please register first.")
             return False
 
-    # Add the following methods here
     def play_round(self, difficulty):
         questions = random.sample(self.questions[difficulty], 5)  # Play 5 questions per round
         for q in questions:
