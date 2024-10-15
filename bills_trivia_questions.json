@@ -1,47 +1,911 @@
 {
   "easy": [
     {
-      "question": "Who was the Bills' starting quarterback in the 2022 NFL season?",
-      "options": ["Josh Allen", "Tyrod Taylor", "EJ Manuel", "Ryan Fitzpatrick"],
+      "question": "Who was the Bills' starting quarterback in the 2023 NFL season?",
+      "options": ["Josh Allen", "Mitch Trubisky", "Case Keenum", "Kyle Allen"],
+      "correct_answer": "Josh Allen",
+      "year": 2023
+    },
+    {
+      "question": "Which Bills player led the team in receiving yards in 2022?",
+      "options": ["Stefon Diggs", "Gabriel Davis", "Isaiah McKenzie", "Dawson Knox"],
+      "correct_answer": "Stefon Diggs",
+      "year": 2022
+    },
+    {
+      "question": "Who was the Bills' head coach in 2021?",
+      "options": ["Sean McDermott", "Rex Ryan", "Doug Marrone", "Chan Gailey"],
+      "correct_answer": "Sean McDermott",
+      "year": 2021
+    },
+    {
+      "question": "Which stadium did the Bills call home in 2020?",
+      "options": ["Bills Stadium", "New Era Field", "Ralph Wilson Stadium", "Rich Stadium"],
+      "correct_answer": "Bills Stadium",
+      "year": 2020
+    },
+    {
+      "question": "Who was the Bills' first-round draft pick in 2019?",
+      "options": ["Ed Oliver", "Tremaine Edmunds", "Josh Allen", "Tre'Davious White"],
+      "correct_answer": "Ed Oliver",
+      "year": 2019
+    },
+    {
+      "question": "Which Bills player had the most sacks in the 2018 season?",
+      "options": ["Jerry Hughes", "Lorenzo Alexander", "Trent Murphy", "Shaq Lawson"],
+      "correct_answer": "Jerry Hughes",
+      "year": 2018
+    },
+    {
+      "question": "In what year did the Bills end their 17-year playoff drought?",
+      "options": ["2017", "2018", "2016", "2019"],
+      "correct_answer": "2017",
+      "year": 2017
+    },
+    {
+      "question": "Who was the Bills' leading rusher in the 2022 season?",
+      "options": ["Devin Singletary", "Josh Allen", "James Cook", "Zack Moss"],
+      "correct_answer": "Devin Singletary",
+      "year": 2022
+    },
+    {
+      "question": "Which Bills player had the most interceptions in the 2021 season?",
+      "options": ["Jordan Poyer", "Micah Hyde", "Tre'Davious White", "Levi Wallace"],
+      "correct_answer": "Jordan Poyer",
+      "year": 2021
+    },
+    {
+      "question": "Who was the Bills' offensive coordinator in 2020?",
+      "options": ["Brian Daboll", "Ken Dorsey", "Rick Dennison", "Anthony Lynn"],
+      "correct_answer": "Brian Daboll",
+      "year": 2020
+    },
+    {
+      "question": "Which Bills player was selected to the Pro Bowl in 2019?",
+      "options": ["Tre'Davious White", "Josh Allen", "Stefon Diggs", "Tremaine Edmunds"],
+      "correct_answer": "Tre'Davious White",
+      "year": 2019
+    },
+    {
+      "question": "Who caught Josh Allen's first NFL touchdown pass in 2018?",
+      "options": ["Kelvin Benjamin", "Zay Jones", "Charles Clay", "Robert Foster"],
+      "correct_answer": "Kelvin Benjamin",
+      "year": 2018
+    },
+    {
+      "question": "Which team did the Bills defeat to clinch a playoff berth in 2017?",
+      "options": ["Miami Dolphins", "New England Patriots", "New York Jets", "Baltimore Ravens"],
+      "correct_answer": "Miami Dolphins",
+      "year": 2017
+    },
+    {
+      "question": "Who was the Bills' leading tackler in the 2022 season?",
+      "options": ["Tremaine Edmunds", "Matt Milano", "Jordan Poyer", "Taron Johnson"],
+      "correct_answer": "Tremaine Edmunds",
+      "year": 2022
+    },
+    {
+      "question": "Which Bills player had the most receiving touchdowns in 2021?",
+      "options": ["Dawson Knox", "Stefon Diggs", "Emmanuel Sanders", "Gabriel Davis"],
+      "correct_answer": "Dawson Knox",
+      "year": 2021
+    },
+    {
+      "question": "Who was the Bills' punter in 2020?",
+      "options": ["Corey Bojorquez", "Matt Haack", "Colton Schmidt", "Brian Moorman"],
+      "correct_answer": "Corey Bojorquez",
+      "year": 2020
+    },
+    {
+      "question": "Which Bills player had the most forced fumbles in 2019?",
+      "options": ["Tre'Davious White", "Jordan Phillips", "Matt Milano", "Tremaine Edmunds"],
+      "correct_answer": "Tre'Davious White",
+      "year": 2019
+    },
+    {
+      "question": "Who was the Bills' leading receiver in yards for the 2018 season?",
+      "options": ["Zay Jones", "Robert Foster", "Kelvin Benjamin", "Charles Clay"],
+      "correct_answer": "Zay Jones",
+      "year": 2018
+    },
+    {
+      "question": "Which quarterback did the Bills trade to acquire the draft pick used for Josh Allen?",
+      "options": ["Tyrod Taylor", "EJ Manuel", "Nathan Peterman", "Cardale Jones"],
+      "correct_answer": "Tyrod Taylor",
+      "year": 2018
+    },
+    {
+      "question": "Who was the Bills' kicker in 2017?",
+      "options": ["Stephen Hauschka", "Dan Carpenter", "Rian Lindell", "Tyler Bass"],
+      "correct_answer": "Stephen Hauschka",
+      "year": 2017
+    },
+    {
+      "question": "Which Bills player had the longest run from scrimmage in 2022?",
+      "options": ["Josh Allen", "Devin Singletary", "James Cook", "Nyheim Hines"],
       "correct_answer": "Josh Allen",
       "year": 2022
     },
     {
-      "question": "Which Bills player led the team in rushing yards in the 2021 season?",
-      "options": ["Josh Allen", "Devin Singletary", "Zack Moss", "Matt Breida"],
-      "correct_answer": "Devin Singletary",
+      "question": "Who was the Bills' defensive coordinator in 2021?",
+      "options": ["Leslie Frazier", "Sean McDermott", "Jim Schwartz", "Mike Pettine"],
+      "correct_answer": "Leslie Frazier",
       "year": 2021
+    },
+    {
+      "question": "Which Bills player had the most receptions in 2020?",
+      "options": ["Stefon Diggs", "Cole Beasley", "John Brown", "Gabriel Davis"],
+      "correct_answer": "Stefon Diggs",
+      "year": 2020
+    },
+    {
+      "question": "Who was the Bills' second-round draft pick in 2019?",
+      "options": ["Cody Ford", "Devin Singletary", "Dawson Knox", "Zack Moss"],
+      "correct_answer": "Cody Ford",
+      "year": 2019
+    },
+    {
+      "question": "Which Bills player had the most tackles for loss in 2018?",
+      "options": ["Lorenzo Alexander", "Jerry Hughes", "Kyle Williams", "Tremaine Edmunds"],
+      "correct_answer": "Lorenzo Alexander",
+      "year": 2018
+    },
+    {
+      "question": "Who caught the touchdown pass known as 'The Comeback' to beat the Dolphins in 2017?",
+      "options": ["Charles Clay", "Nick O'Leary", "Zay Jones", "Andre Holmes"],
+      "correct_answer": "Charles Clay",
+      "year": 2017
+    },
+    {
+      "question": "Which Bills player had the most punt return yards in 2022?",
+      "options": ["Nyheim Hines", "Micah Hyde", "Devin Singletary", "Isaiah McKenzie"],
+      "correct_answer": "Nyheim Hines",
+      "year": 2022
+    },
+    {
+      "question": "Who was the Bills' center in 2021?",
+      "options": ["Mitch Morse", "Ryan Groy", "Russell Bodine", "Eric Wood"],
+      "correct_answer": "Mitch Morse",
+      "year": 2021
+    },
+    {
+      "question": "Which Bills player had the most passes defended in 2020?",
+      "options": ["Tre'Davious White", "Jordan Poyer", "Levi Wallace", "Taron Johnson"],
+      "correct_answer": "Tre'Davious White",
+      "year": 2020
+    },
+    {
+      "question": "Who was the Bills' special teams coordinator in 2019?",
+      "options": ["Heath Farwell", "Danny Crossman", "Bobby April", "Bruce DeHaven"],
+      "correct_answer": "Heath Farwell",
+      "year": 2019
+    },
+    {
+      "question": "Which Bills player had the most fumble recoveries in 2018?",
+      "options": ["Jerry Hughes", "Tremaine Edmunds", "Matt Milano", "Taron Johnson"],
+      "correct_answer": "Jerry Hughes",
+      "year": 2018
+    },
+    {
+      "question": "Who was the Bills' leading scorer in 2017?",
+      "options": ["Stephen Hauschka", "LeSean McCoy", "Tyrod Taylor", "Charles Clay"],
+      "correct_answer": "Stephen Hauschka",
+      "year": 2017
+    },
+    {
+      "question": "Which Bills player had the longest reception in 2022?",
+      "options": ["Gabe Davis", "Stefon Diggs", "Isaiah McKenzie", "Dawson Knox"],
+      "correct_answer": "Gabe Davis",
+      "year": 2022
+    },
+    {
+      "question": "Who was the Bills' left tackle in 2021?",
+      "options": ["Dion Dawkins", "Cordy Glenn", "Seantrel Henderson", "Ty Nsekhe"],
+      "correct_answer": "Dion Dawkins",
+      "year": 2021
+    },
+    {
+      "question": "Which Bills player had the most quarterback hits in 2020?",
+      "options": ["Jerry Hughes", "Ed Oliver", "Mario Addison", "A.J. Epenesa"],
+      "correct_answer": "Jerry Hughes",
+      "year": 2020
+    },
+    {
+      "question": "Who was the Bills' leading rusher in 2019?",
+      "options": ["Devin Singletary", "Frank Gore", "Josh Allen", "T.J. Yeldon"],
+      "correct_answer": "Devin Singletary",
+      "year": 2019
+    },
+    {
+      "question": "Which Bills player had the most special teams tackles in 2018?",
+      "options": ["Siran Neal", "Lafayette Pitts", "Deon Lacey", "Julian Stanford"],
+      "correct_answer": "Siran Neal",
+      "year": 2018
+    },
+    {
+      "question": "Who was the Bills' strength and conditioning coach in 2017?",
+      "options": ["Eric Ciano", "Hal Luther", "Bob Babich", "John Allaire"],
+      "correct_answer": "Eric Ciano",
+      "year": 2017
+    },
+    {
+      "question": "Which Bills player had the most red zone touchdowns in 2022?",
+      "options": ["Josh Allen", "Stefon Diggs", "Dawson Knox", "Devin Singletary"],
+      "correct_answer": "Josh Allen",
+      "year": 2022
+    },
+    {
+      "question": "Who was the Bills' nickel cornerback in 2021?",
+      "options": ["Taron Johnson", "Siran Neal", "Levi Wallace", "Dane Jackson"],
+      "correct_answer": "Taron Johnson",
+      "year": 2021
+    },
+    {
+      "question": "Which Bills player had the most forced fumbles in 2020?",
+      "options": ["Tre'Davious White", "Jerry Hughes", "Matt Milano", "Jordan Poyer"],
+      "correct_answer": "Tre'Davious White",
+      "year": 2020
+    },
+    {
+      "question": "Who was the Bills' long snapper in 2019?",
+      "options": ["Reid Ferguson", "Garrison Sanborn", "Jon Dorenbos", "Mike Schneck"],
+      "correct_answer": "Reid Ferguson",
+      "year": 2019
+    },
+    {
+      "question": "Which Bills player had the most kickoff return yards in 2018?",
+      "options": ["Marcus Murphy", "Isaiah McKenzie", "Victor Bolden Jr.", "Taiwan Jones"],
+      "correct_answer": "Marcus Murphy",
+      "year": 2018
+    },
+    {
+      "question": "Who was the Bills' backup quarterback in 2017?",
+      "options": ["Nathan Peterman", "T.J. Yates", "Joe Webb", "Cardale Jones"],
+      "correct_answer": "Nathan Peterman",
+      "year": 2017
+    },
+    {
+      "question": "Which Bills player had the most tackles in 2022?",
+      "options": ["Tremaine Edmunds", "Matt Milano", "Jordan Poyer", "Taron Johnson"],
+      "correct_answer": "Tremaine Edmunds",
+      "year": 2022
+    },
+    {
+      "question": "Who was the Bills' right guard in 2021?",
+      "options": ["Daryl Williams", "Jon Feliciano", "Cody Ford", "Ike Boettger"],
+      "correct_answer": "Daryl Williams",
+      "year": 2021
+    },
+    {
+      "question": "Which Bills player had the most receiving yards in 2020?",
+      "options": ["Stefon Diggs", "Cole Beasley", "John Brown", "Gabriel Davis"],
+      "correct_answer": "Stefon Diggs",
+      "year": 2020
+    },
+    {
+      "question": "Who was the Bills' third-round draft pick in 2019?",
+      "options": ["Devin Singletary", "Dawson Knox", "Cody Ford", "Vosean Joseph"],
+      "correct_answer": "Devin Singletary",
+      "year": 2019
+    },
+    {
+      "question": "Which Bills player had the most sacks in 2018?",
+      "options": ["Jerry Hughes", "Lorenzo Alexander", "Trent Murphy", "Kyle Williams"],
+      "correct_answer": "Jerry Hughes",
+      "year": 2018
+    },
+    {
+      "question": "Who was the Bills' offensive line coach in 2017?",
+      "options": ["Juan Castillo", "Aaron Kromer", "Pat Morris", "Joe D'Alessandris"],
+      "correct_answer": "Juan Castillo",
+      "year": 2017
     }
-    // ... 48 more easy questions ...
   ],
   "medium": [
     {
-      "question": "Who was the Bills' head coach during their four consecutive Super Bowl appearances?",
-      "options": ["Marv Levy", "Chuck Knox", "Wade Phillips", "Dick Jauron"],
-      "correct_answer": "Marv Levy",
-      "year": 1990
-    },
-    {
-      "question": "Which Bills player was known as 'The Biscuit' and played offensive line from 1973 to 1984?",
-      "options": ["Joe DeLamielleure", "Kent Hull", "Jim Ritcher", "Will Wolford"],
-      "correct_answer": "Joe DeLamielleure",
-      "year": 1973
-    }
-    // ... 48 more medium questions ...
-  ],
-  "hard": [
-    {
-      "question": "Who was the first head coach of the Buffalo Bills in their inaugural 1960 AFL season?",
-      "options": ["Buster Ramsey", "Lou Saban", "Joel Collier", "John Rauch"],
-      "correct_answer": "Buster Ramsey",
-      "year": 1960
-    },
-    {
-      "question": "Which Bills player was the AFL MVP in 1965?",
-      "options": ["Jack Kemp", "Cookie Gilchrist", "Elbert Dubenion", "Ernie Warlick"],
-      "correct_answer": "Jack Kemp",
-      "year": 1965
-    }
-    // ... 48 more hard questions ...
-  ]
-}
+      "question": "In which year did Rex Ryan become the head coach of the Bills?",
+      "options": ["2015", "2013", "2017", "2011"],
+      "correct_answer": "2015",
+      "year{
+        "easy": [
+          // The 50 easy questions you've already seen
+        ],
+        "medium": [
+          {
+            "question": "Who was the Bills' head coach during their four consecutive Super Bowl appearances?",
+            "options": ["Marv Levy", "Chuck Knox", "Lou Saban", "Wade Phillips"],
+            "correct_answer": "Marv Levy",
+            "year": 1990
+          },
+          {
+            "question": "Which Bills player was known as 'The Biscuit' and played offensive line from 1973 to 1984?",
+            "options": ["Joe DeLamielleure", "Kent Hull", "Jim Ritcher", "Will Wolford"],
+            "correct_answer": "Joe DeLamielleure",
+            "year": 1973
+          },
+          {
+            "question": "In what year did the Bills draft Jim Kelly?",
+            "options": ["1983", "1980", "1986", "1989"],
+            "correct_answer": "1983",
+            "year": 1983
+          },
+          {
+            "question": "Who was the Bills' all-time leading rusher before Thurman Thomas?",
+            "options": ["O.J. Simpson", "Joe Cribbs", "Cookie Gilchrist", "Fred Jackson"],
+            "correct_answer": "O.J. Simpson",
+            "year": 1990
+          },
+          {
+            "question": "Which Bills kicker holds the record for the longest field goal in team history?",
+            "options": ["Steve Christie", "Scott Norwood", "Rian Lindell", "Dan Carpenter"],
+            "correct_answer": "Steve Christie",
+            "year": 1993
+          },
+          {
+            "question": "In which year did the Bills play their first game at Ralph Wilson Stadium (now known as Highmark Stadium)?",
+            "options": ["1973", "1960", "1980", "1990"],
+            "correct_answer": "1973",
+            "year": 1973
+          },
+          {
+            "question": "Who caught the winning touchdown pass in 'The Comeback' game against the Houston Oilers in 1993?",
+            "options": ["Andre Reed", "Don Beebe", "James Lofton", "Pete Metzelaars"],
+            "correct_answer": "Andre Reed",
+            "year": 1993
+          },
+          {
+            "question": "Which Bills player was named NFL Defensive Player of the Year in 1993?",
+            "options": ["Bruce Smith", "Cornelius Bennett", "Darryl Talley", "Nate Odomes"],
+            "correct_answer": "Bruce Smith",
+            "year": 1993
+          },
+          {
+            "question": "Who was the Bills' head coach when they drafted Jim Kelly in 1983?",
+            "options": ["Kay Stephenson", "Chuck Knox", "Hank Bullough", "Marv Levy"],
+            "correct_answer": "Kay Stephenson",
+            "year": 1983
+          },
+          {
+            "question": "In what year did the Bills retire O.J. Simpson's number 32?",
+            "options": ["1980", "1975", "1985", "1990"],
+            "correct_answer": "1980",
+            "year": 1980
+          },
+          {
+            "question": "Which Bills player had the most receptions in a single season during the 1990s?",
+            "options": ["Eric Moulds", "Andre Reed", "James Lofton", "Don Beebe"],
+            "correct_answer": "Eric Moulds",
+            "year": 1998
+          },
+          {
+            "question": "Who was the Bills' starting quarterback in their first AFC Championship game victory?",
+            "options": ["Jim Kelly", "Joe Ferguson", "Jack Kemp", "Frank Reich"],
+            "correct_answer": "Jim Kelly",
+            "year": 1990
+          },
+          {
+            "question": "Which Bills player holds the record for most sacks in a single season?",
+            "options": ["Bruce Smith", "Cornelius Bennett", "Aaron Schobel", "Mario Williams"],
+            "correct_answer": "Bruce Smith",
+            "year": 1990
+          },
+          {
+            "question": "In what year did the Bills change their helmet color from white to red?",
+            "options": ["1984", "1980", "1987", "1992"],
+            "correct_answer": "1984",
+            "year": 1984
+          },
+          {
+            "question": "Who was the Bills' head coach during the 'Music City Miracle' game?",
+            "options": ["Wade Phillips", "Marv Levy", "Gregg Williams", "Mike Mularkey"],
+            "correct_answer": "Wade Phillips",
+            "year": 1999
+          },
+          {
+            "question": "Which Bills player caught the famous 'Immaculate Deception' touchdown pass in 1998?",
+            "options": ["Andre Reed", "Eric Moulds", "Quinn Early", "Kevin Williams"],
+            "correct_answer": "Andre Reed",
+            "year": 1998
+          },
+          {
+            "question": "Who was the Bills' leading rusher in their first Super Bowl appearance?",
+            "options": ["Thurman Thomas", "Kenneth Davis", "Jamie Mueller", "Larry Kinnebrew"],
+            "correct_answer": "Thurman Thomas",
+            "year": 1990
+          },
+          {
+            "question": "In what year did the Bills draft Thurman Thomas?",
+            "options": ["1988", "1985", "1990", "1992"],
+            "correct_answer": "1988",
+            "year": 1988
+          },
+          {
+            "question": "Who was the Bills' defensive coordinator during their Super Bowl years?",
+            "options": ["Walt Corey", "Ted Cottrell", "Elijah Pitts", "Tom Bresnahan"],
+            "correct_answer": "Walt Corey",
+            "year": 1990
+          },
+          {
+            "question": "Which Bills player had the most interceptions in a single season during the 1990s?",
+            "options": ["Nate Odomes", "Henry Jones", "Kurt Schulz", "Thomas Smith"],
+            "correct_answer": "Nate Odomes",
+            "year": 1993
+          },
+          {
+            "question": "In what year did the Bills retire Jim Kelly's number 12?",
+            "options": ["2001", "1997", "2003", "1999"],
+            "correct_answer": "2001",
+            "year": 2001
+          },
+          {
+            "question": "Who was the Bills' offensive coordinator during their Super Bowl years?",
+            "options": ["Ted Marchibroda", "Jim Ringo", "Tom Bresnahan", "Joe Pendry"],
+            "correct_answer": "Ted Marchibroda",
+            "year": 1990
+          },
+          {
+            "question": "Which Bills player had the most receiving touchdowns in a single season during the 1990s?",
+            "options": ["Andre Reed", "James Lofton", "Eric Moulds", "Don Beebe"],
+            "correct_answer": "Andre Reed",
+            "year": 1991
+          },
+          {
+            "question": "In what year did the Bills draft Bruce Smith?",
+            "options": ["1985", "1983", "1987", "1989"],
+            "correct_answer": "1985",
+            "year": 1985
+          },
+          {
+            "question": "Who was the Bills' punter during their four consecutive Super Bowl appearances?",
+            "options": ["Chris Mohr", "John Kidd", "Brian Moorman", "Paul Maguire"],
+            "correct_answer": "Chris Mohr",
+            "year": 1990
+          },
+          {
+            "question": "Which Bills player had the most tackles in a single season during the 1990s?",
+            "options": ["Darryl Talley", "Cornelius Bennett", "Sam Rogers", "John Holecek"],
+            "correct_answer": "Darryl Talley",
+            "year": 1990
+          },
+          {
+            "question": "In what year did the Bills switch from their standing buffalo logo to the charging buffalo?",
+            "options": ["1974", "1970", "1977", "1980"],
+            "correct_answer": "1974",
+            "year": 1974
+          },
+          {
+            "question": "Who was the Bills' general manager during their Super Bowl years?",
+            "options": ["Bill Polian", "John Butler", "A.J. Smith", "Marv Levy"],
+            "correct_answer": "Bill Polian",
+            "year": 1990
+          },
+          {
+            "question": "Which Bills player had the most fumble recoveries in a single season during the 1990s?",
+            "options": ["Bruce Smith", "Phil Hansen", "Cornelius Bennett", "Bryce Paup"],
+            "correct_answer": "Bruce Smith",
+            "year": 1990
+          },
+          {
+            "question": "In what year did the Bills draft Andre Reed?",
+            "options": ["1985", "1983", "1987", "1989"],
+            "correct_answer": "1985",
+            "year": 1985
+          },
+          {
+            "question": "Who was the Bills' starting center during their four consecutive Super Bowl appearances?",
+            "options": ["Kent Hull", "Jim Ritcher", "Will Wolford", "Glenn Parker"],
+            "correct_answer": "Kent Hull",
+            "year": 1990
+          },
+          {
+            "question": "Which Bills player had the most rushing touchdowns in a single season during the 1990s?",
+            "options": ["Thurman Thomas", "Kenneth Davis", "Antowain Smith", "Darick Holmes"],
+            "correct_answer": "Thurman Thomas",
+            "year": 1991
+          },
+          {
+            "question": "In what year did the Bills retire Bruce Smith's number 78?",
+            "options": ["2016", "2010", "2008", "2014"],
+            "correct_answer": "2016",
+            "year": 2016
+          },
+          {
+            "question": "Who was the Bills' special teams coordinator during their Super Bowl years?",
+            "options": ["Bruce DeHaven", "Ronnie Jones", "Bobby April", "Danny Smith"],
+            "correct_answer": "Bruce DeHaven",
+            "year": 1990
+          },
+          {
+            "question": "Which Bills player had the most forced fumbles in a single season during the 1990s?",
+            "options": ["Bryce Paup", "Bruce Smith", "Cornelius Bennett", "Darryl Talley"],
+            "correct_answer": "Bryce Paup",
+            "year": 1995
+          },
+          {
+            "question": "In what year did the Bills draft Ruben Brown?",
+            "options": ["1995", "1993", "1997", "1999"],
+            "correct_answer": "1995",
+            "year": 1995
+          },
+          {
+            "question": "Who was the Bills' starting strong safety during their four consecutive Super Bowl appearances?",
+            "options": ["Henry Jones", "Leonard Smith", "Mark Kelso", "Kurt Schulz"],
+            "correct_answer": "Leonard Smith",
+            "year": 1990
+          },
+          {
+            "question": "Which Bills player had the most kickoff return yards in a single season during the 1990s?",
+            "options": ["Russell Copeland", "Don Beebe", "Terrence McGee", "Eric Moulds"],
+            "correct_answer": "Russell Copeland",
+            "year": 1994
+          },
+          {
+            "question": "In what year did the Bills draft Cornelius Bennett?",
+            "options": ["1987", "1985", "1989", "1991"],
+            "correct_answer": "1987",
+            "year": 1987
+          },
+          {
+            "question": "Who was the Bills' starting fullback during their four consecutive Super Bowl appearances?",
+            "options": ["Carwell Gardner", "Jamie Mueller", "Kenneth Davis", "Sam Gash"],
+            "correct_answer": "Carwell Gardner",
+            "year": 1990
+          },
+          {
+            "question": "Which Bills player had the most punt return yards in a single season during the 1990s?",
+            "options": ["Steve Tasker", "Russell Copeland", "Don Beebe", "Charlie Rogers"],
+            "correct_answer": "Russell Copeland",
+            "year": 1993
+          },
+          {
+            "question": "In what year did the Bills retire Thurman Thomas's number 34?",
+            "options": ["2018", "2010", "2008", "2014"],
+            "correct_answer": "2018",
+            "year": 2018
+          },
+          {
+            "question": "Who was the Bills' strength and conditioning coach during their Super Bowl years?",
+            "options": ["Rusty Jones", "Eric Ciano", "Bob Babich", "John Allaire"],
+            "correct_answer": "Rusty Jones",
+            "year": 1990
+          },
+          {
+            "question": "Which Bills player had the most pass deflections in a single season during the 1990s?",
+            "options": ["Nate Odomes", "Thomas Smith", "Henry Jones", "Jeff Burris"],
+            "correct_answer": "Nate Odomes",
+            "year": 1993
+          },
+          {
+            "question": "In what year did the Bills draft Phil Hansen?",
+            "options": ["1991", "1989", "1993", "1995"],
+            "correct_answer": "1991",
+            "year": 1991
+          },
+          {
+            "question": "Who was the Bills' long snapper during their four consecutive Super Bowl appearances?",
+            "options": ["Adam Lingner", "Ethan Albright", "Jon Dorenbos", "Garrison Sanborn"],
+            "correct_answer": "Adam Lingner",
+            "year": 1990
+          },
+          {
+            "question": "Which Bills player had the most receiving yards in a single game during the 1990s?",
+            "options": ["Eric Moulds", "Andre Reed", "James Lofton", "Don Beebe"],
+            "correct_answer": "Eric Moulds",
+            "year": 1998
+          },
+          {
+            "question": "In what year did the Bills retire Andre Reed's number 83?",
+            "options": ["2014", "2010", "2016", "2018"],
+            "correct_answer": "2014",
+            "year": 2014
+          },
+          {
+            "question": "Who was the Bills' offensive line coach during their Super Bowl years?",
+            "options": ["Tom Bresnahan", "Jim McNally", "Juan Castillo", "Pat Morris"],
+            "correct_answer": "Tom Bresnahan",
+            "year": 1990
+          }
+        ],
+        "hard": [
+          {
+            "question": "Who was the first head coach of the Buffalo Bills in their inaugural 1960 AFL season?",
+            "options": ["Buster Ramsey", "Lou Saban", "Joel Collier", "John Rauch"],
+            "correct_answer": "Buster Ramsey",
+            "year": 1960
+          },
+          {
+            "question": "Which Bills player was the AFL MVP in 1965?",
+            "options": ["Jack Kemp", "Cookie Gilchrist", "Elbert Dubenion", "Ernie Warlick"],
+            "correct_answer": "Jack Kemp",
+            "year": 1965{
+              "hard": [
+                {
+                  "question": "Who was the first head coach of the Buffalo Bills in their inaugural 1960 AFL season?",
+                  "options": ["Buster Ramsey", "Lou Saban", "Joel Collier", "John Rauch"],
+                  "correct_answer": "Buster Ramsey",
+                  "year": 1960
+                },
+                {
+                  "question": "Which Bills player was the AFL MVP in 1965?",
+                  "options": ["Jack Kemp", "Cookie Gilchrist", "Elbert Dubenion", "Ernie Warlick"],
+                  "correct_answer": "Jack Kemp",
+                  "year": 1965
+                },
+                {
+                  "question": "Who scored the first touchdown in Bills history?",
+                  "options": ["Wray Carlton", "Elbert Dubenion", "Jim Wagstaff", "Monte Crockett"],
+                  "correct_answer": "Wray Carlton",
+                  "year": 1960
+                },
+                {
+                  "question": "In what year did the Bills win their first AFL Championship?",
+                  "options": ["1964", "1962", "1966", "1965"],
+                  "correct_answer": "1964",
+                  "year": 1964
+                },
+                {
+                  "question": "Who was the Bills' first-round draft pick in 1969?",
+                  "options": ["O.J. Simpson", "Al Cowlings", "Marlin Briscoe", "Haven Moses"],
+                  "correct_answer": "O.J. Simpson",
+                  "year": 1969
+                },
+                {
+                  "question": "Which Bills player led the AFL in rushing yards in 1962?",
+                  "options": ["Cookie Gilchrist", "Wray Carlton", "Wayne Crow", "Art Baker"],
+                  "correct_answer": "Cookie Gilchrist",
+                  "year": 1962
+                },
+                {
+                  "question": "Who was the Bills' head coach when they joined the NFL in the AFL-NFL merger?",
+                  "options": ["John Rauch", "Joe Collier", "Harvey Johnson", "Lou Saban"],
+                  "correct_answer": "John Rauch",
+                  "year": 1970
+                },
+                {
+                  "question": "Which Bills quarterback led the team to back-to-back AFL Championships in 1964 and 1965?",
+                  "options": ["Jack Kemp", "Daryle Lamonica", "Dennis Shaw", "Tom Flores"],
+                  "correct_answer": "Jack Kemp",
+                  "year": 1965
+                },
+                {
+                  "question": "Who was the Bills' first AFL All-Star Game selection?",
+                  "options": ["Billy Shaw", "Tom Sestak", "Elbert Dubenion", "Richie Lucas"],
+                  "correct_answer": "Billy Shaw",
+                  "year": 1961
+                },
+                {
+                  "question": "In what year did the Bills move from War Memorial Stadium to Rich Stadium (now New Era Field)?",
+                  "options": ["1973", "1970", "1975", "1968"],
+                  "correct_answer": "1973",
+                  "year": 1973
+                },
+                {
+                  "question": "Who was the Bills' head coach when O.J. Simpson rushed for 2,003 yards in 1973?",
+                  "options": ["Lou Saban", "John Rauch", "Harvey Johnson", "Jim Ringo"],
+                  "correct_answer": "Lou Saban",
+                  "year": 1973
+                },
+                {
+                  "question": "Which Bills player was known as the 'Human Bowling Ball'?",
+                  "options": ["Cookie Gilchrist", "Wray Carlton", "Elbert Dubenion", "Booker Edgerson"],
+                  "correct_answer": "Cookie Gilchrist",
+                  "year": 1962
+                },
+                {
+                  "question": "Who was the Bills' first inductee into the Pro Football Hall of Fame?",
+                  "options": ["O.J. Simpson", "Billy Shaw", "Jack Kemp", "Tom Sestak"],
+                  "correct_answer": "Billy Shaw",
+                  "year": 1999
+                },
+                {
+                  "question": "In what year did the Bills draft Joe DeLamielleure?",
+                  "options": ["1973", "1970", "1975", "1971"],
+                  "correct_answer": "1973",
+                  "year": 1973
+                },
+                {
+                  "question": "Who was the Bills' head coach during their first playoff appearance in the NFL era?",
+                  "options": ["Chuck Knox", "Lou Saban", "Kay Stephenson", "Hank Bullough"],
+                  "correct_answer": "Chuck Knox",
+                  "year": 1980
+                },
+                {
+                  "question": "Which Bills player was nicknamed 'The Juice'?",
+                  "options": ["O.J. Simpson", "Elbert Dubenion", "Wray Carlton", "Roland Hooks"],
+                  "correct_answer": "O.J. Simpson",
+                  "year": 1969
+                },
+                {
+                  "question": "Who was the Bills' first 1,000-yard receiver?",
+                  "options": ["Elbert Dubenion", "Glenn Bass", "Haven Moses", "Ahmad Rashad"],
+                  "correct_answer": "Elbert Dubenion",
+                  "year": 1964
+                },
+                {
+                  "question": "In what year did the Bills change their helmet color from silver to white?",
+                  "options": ["1962", "1960", "1964", "1966"],
+                  "correct_answer": "1962",
+                  "year": 1962
+                },
+                {
+                  "question": "Who was the Bills' head coach when they drafted Bruce Smith in 1985?",
+                  "options": ["Kay Stephenson", "Hank Bullough", "Chuck Knox", "Marv Levy"],
+                  "correct_answer": "Kay Stephenson",
+                  "year": 1985
+                },
+                {
+                  "question": "Which Bills player was known as 'The Hammer'?",
+                  "options": ["Fred Smerlas", "Mike Stratton", "Tom Sestak", "Jim Dunaway"],
+                  "correct_answer": "Mike Stratton",
+                  "year": 1963
+                },
+                {
+                  "question": "Who was the Bills' first 4,000-yard passer in a single season?",
+                  "options": ["Joe Ferguson", "Jack Kemp", "Dennis Shaw", "Jim Kelly"],
+                  "correct_answer": "Joe Ferguson",
+                  "year": 1981
+                },
+                {
+                  "question": "In what year did the Bills draft Jim Kelly?",
+                  "options": ["1983", "1980", "1985", "1986"],
+                  "correct_answer": "1983",
+                  "year": 1983
+                },
+                {
+                  "question": "Who was the Bills' head coach when they drafted O.J. Simpson?",
+                  "options": ["John Rauch", "Joe Collier", "Harvey Johnson", "Lou Saban"],
+                  "correct_answer": "John Rauch",
+                  "year": 1969
+                },
+                {
+                  "question": "Which Bills player was known as 'The Twister'?",
+                  "options": ["Elbert Dubenion", "Glenn Bass", "Charley Ferguson", "Wray Carlton"],
+                  "correct_answer": "Elbert Dubenion",
+                  "year": 1960
+                },
+                {
+                  "question": "Who was the Bills' first 100-reception receiver in a single season?",
+                  "options": ["Andre Reed", "Eric Moulds", "Jerry Butler", "Bob Chandler"],
+                  "correct_answer": "Andre Reed",
+                  "year": 1994
+                },
+                {
+                  "question": "In what year did the Bills draft Joe Cribbs?",
+                  "options": ["1980", "1978", "1982", "1976"],
+                  "correct_answer": "1980",
+                  "year": 1980
+                },
+                {
+                  "question": "Who was the Bills' defensive coordinator during their 1964 AFL Championship season?",
+                  "options": ["Joel Collier", "John Mazur", "Jim Dooley", "Buddy Ryan"],
+                  "correct_answer": "Joel Collier",
+                  "year": 1964
+                },
+                {
+                  "question": "Which Bills player holds the record for most interceptions in a single game?",
+                  "options": ["Butch Byrd", "Booker Edgerson", "George Saimes", "Hagood Clarke"],
+                  "correct_answer": "Butch Byrd",
+                  "year": 1964
+                },
+                {
+                  "question": "Who was the Bills' first 1,000-yard rusher?",
+                  "options": ["Cookie Gilchrist", "Wray Carlton", "O.J. Simpson", "Bobby Burnett"],
+                  "correct_answer": "Cookie Gilchrist",
+                  "year": 1962
+                },
+                {
+                  "question": "In what year did the Bills draft Shane Conlan?",
+                  "options": ["1987", "1985", "1989", "1983"],
+                  "correct_answer": "1987",
+                  "year": 1987
+                },
+                {
+                  "question": "Who was the Bills' offensive coordinator during their 1965 AFL Championship season?",
+                  "options": ["Joe Collier", "Jerry Smith", "Harvey Johnson", "Buddy Ryan"],
+                  "correct_answer": "Joe Collier",
+                  "year": 1965
+                },
+                {
+                  "question": "Which Bills player was known as 'The Hangman'?",
+                  "options": ["Al Bemiller", "Tom Sestak", "Jim Dunaway", "Ron McDole"],
+                  "correct_answer": "Ron McDole",
+                  "year": 1963
+                },
+                {
+                  "question": "Who was the Bills' first 20-touchdown passer in a single season?",
+                  "options": ["Jack Kemp", "Daryle Lamonica", "Dennis Shaw", "Joe Ferguson"],
+                  "correct_answer": "Jack Kemp",
+                  "year": 1964
+                },
+                {
+                  "question": "In what year did the Bills draft Will Wolford?",
+                  "options": ["1986", "1984", "1988", "1982"],
+                  "correct_answer": "1986",
+                  "year": 1986
+                },
+                {
+                  "question": "Who was the Bills' head coach when they drafted Jim Kelly in 1983?",
+                  "options": ["Kay Stephenson", "Chuck Knox", "Hank Bullough", "Lou Saban"],
+                  "correct_answer": "Kay Stephenson",
+                  "year": 1983
+                },
+                {
+                  "question": "Which Bills player was known as 'The Ironman'?",
+                  "options": ["Billy Shaw", "George Saimes", "Tom Sestak", "Mike Stratton"],
+                  "correct_answer": "George Saimes",
+                  "year": 1963
+                },
+                {
+                  "question": "Who was the Bills' first 1,500-yard rusher in a single season?",
+                  "options": ["O.J. Simpson", "Cookie Gilchrist", "Joe Cribbs", "Terry Miller"],
+                  "correct_answer": "O.J. Simpson",
+                  "year": 1973
+                },
+                {
+                  "question": "In what year did the Bills draft Ruben Brown?",
+                  "options": ["1995", "1993", "1997", "1991"],
+                  "correct_answer": "1995",
+                  "year": 1995
+                },
+                {
+                  "question": "Who was the Bills' special teams coach during their 1964 AFL Championship season?",
+                  "options": ["John Mazur", "Joel Collier", "Harvey Johnson", "Buddy Ryan"],
+                  "correct_answer": "John Mazur",
+                  "year": 1964
+                },
+                {
+                  "question": "Which Bills player was known as 'The Soul Patrol'?",
+                  "options": ["Robert James", "Booker Edgerson", "George Saimes", "Hagood Clarke"],
+                  "correct_answer": "Robert James",
+                  "year": 1969
+                },
+                {
+                  "question": "Who was the Bills' first 3,000-yard passer in a single season?",
+                  "options": ["Joe Ferguson", "Jack Kemp", "Dennis Shaw", "Dan Darragh"],
+                  "correct_answer": "Joe Ferguson",
+                  "year": 1975
+                },
+                {
+                  "question": "In what year did the Bills draft Nate Odomes?",
+                  "options": ["1987", "1985", "1989", "1983"],
+                  "correct_answer": "1987",
+                  "year": 1987
+                },
+                {
+                  "question": "Who was the Bills' head coach when they drafted Bruce Smith in 1985?",
+                  "options": ["Kay Stephenson", "Hank Bullough", "Chuck Knox", "Marv Levy"],
+                  "correct_answer": "Kay Stephenson",
+                  "year": 1985
+                },
+                {
+                  "question": "Which Bills player was known as 'The Franchise'?",
+                  "options": ["O.J. Simpson", "Jack Kemp", "Cookie Gilchrist", "Tom Sestak"],
+                  "correct_answer": "O.J. Simpson",
+                  "year": 1969
+                },
+                {
+                  "question": "Who was the Bills' first 100-point scorer in a single season?",
+                  "options": ["Pete Gogolak", "Booth Lusteg", "Jack Kemp", "Cookie Gilchrist"],
+                  "correct_answer": "Pete Gogolak",
+                  "year": 1965
+                },
+                {
+                  "question": "In what year did the Bills retire O.J. Simpson's number 32?",
+                  "options": ["1980", "1975", "1985", "1978"],
+                  "correct_answer": "1980",
+                  "year": 1980
+                },
+                {
+                  "question": "Who was the Bills' quarterback coach when Jim Kelly was drafted in 1983?",
+                  "options": ["Kay Stephenson", "Jim Ringo", "Tom Bresnahan", "Ted Marchibroda"],
+                  "correct_answer": "Kay Stephenson",
+                  "year": 1983
+                },
+                {
+                  "question": "Which Bills player was known as 'The Pitbull'?",
+                  "options": ["Darryl Talley", "Cornelius Bennett", "Shane Conlan", "Ray Bentley"],
+                  "correct_answer": "Darryl Talley",
+                  "year": 1983
+                }
+              ]
+            }
